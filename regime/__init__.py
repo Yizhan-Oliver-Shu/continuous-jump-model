@@ -1,0 +1,1 @@
+# this file indicates that the folder is a lightweight package
